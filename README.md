@@ -4,17 +4,17 @@ A beautiful mobile app built with **React Native + Expo Router**, inspired by th
 
 ---
 ## Major Libraries & Tools
-📦 Expo SDK 52
+Expo SDK 52
 
-🧭 expo-router for filesystem-based navigation
+expo-router for filesystem-based navigation
 
-💅 react-native-reanimated for smooth animations
+react-native-reanimated for smooth animations
 
-🔄 react-native-gesture-handler, react-native-screens
+react-native-gesture-handler, react-native-screens
 
-🎠 react-native-reanimated-carousel, react-carousel-animated
+react-native-reanimated-carousel, react-carousel-animated
 
-🎨 expo-linear-gradient, expo-font, expo-media-library
+expo-linear-gradient, expo-font, expo-media-library
 
 
 ## 📁 Project Structure
@@ -54,32 +54,32 @@ npm run android   # Run on Android
 
 npm run ios       # Run on iOS (macOS only)
 
-✨ Features
-📥 Wallpaper Downloading
+## ✨ Features
+ Wallpaper Downloading
 Save wallpapers directly to your device's gallery using expo-media-library.
 
-🔄 Page Navigation
+Page Navigation
 Smooth navigation using expo-router and @react-navigation stack/tab systems.
 
-📄 Content Pagination
+Content Pagination
 Load content in pages to improve performance and user experience.
 
-🕒 Horizontal Scrolling with Timer Loop
+ Horizontal Scrolling with Timer Loop
 Automatic, animated scrolling carousel using react-native-reanimated-carousel.
 
-❤️ Like Feature
+ Like Feature
 Tap-to-like functionality with visual feedback and state storage.
 
-⬆️ Bottom Sheet Integration
+ Bottom Sheet Integration
 Seamlessly integrated bottom sheet using @gorhom/bottom-sheet for more details or actions.
 
-🌐 External Link Navigation
+ External Link Navigation
 Open external websites or apps via expo-linking or expo-web-browser.
 
-🌓 Theme Switching
+ Theme Switching
 Toggle between dark and light themes with system-aware support.
 
-## 📫 Contact
+## Contact
 Made with ❤️ by Soham Aswar
 🔗 GitHub Profile
 
