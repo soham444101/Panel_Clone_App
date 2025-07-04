@@ -42,7 +42,7 @@ my-app/
 - Android Studio / Xcode (optional for native testing)
 
 ### 📦 Installation
-git clone https://github.com/YOUR_USERNAME/panel-app.git
+git clone https://github.com/soham444101/Panel_Clone_App.git
 
 npm install
 
