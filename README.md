@@ -19,24 +19,18 @@ expo-linear-gradient, expo-font, expo-media-library
 
 ## 📁 Project Structure
 
+```text
 my-app/
-├── app/ # Screens & layout via Expo Router
-|
-│ ├── Tabs/ # Tab navigations
-|
-│ ├── (NoBottom)/ # Screens without bottom tab
-|
-│ └── _layout.tsx # Entry point for routing
-|
-├── assets/ # Fonts, images, etc.
-|
-├── components/ # Custom reusable UI components
-|
-├── scripts/ # Utility scripts (e.g. reset-project)
-|
+├── app/                   # Screens & layout via Expo Router
+│   ├── Tabs/             # Tab navigations
+│   ├── (NoBottom)/       # Screens without bottom tab
+│   └── _layout.tsx       # Entry point for routing
+├── assets/               # Fonts, images, etc.
+├── components/           # Custom reusable UI components
+├── scripts/              # Utility scripts (e.g. reset-project)
 ├── App.js or app.config.js
-|
 └── README.md
+```
 
 
 ## 🚀 Getting Started
