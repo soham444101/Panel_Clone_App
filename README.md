@@ -82,7 +82,8 @@ Open external websites or apps via expo-linking or expo-web-browser.
 Toggle between dark and light themes with system-aware support.
 
 ## Contact
-Made with ❤️ by Soham Aswar
-🔗 GitHub Profile
+Email : sohamaswar@gmail.com
+
+GitHub Profile : soham444101
 
 
