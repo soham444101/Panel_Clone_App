@@ -30,7 +30,7 @@ my-app/
 ├── scripts/               # Utility scripts (e.g., reset-project)
 ├── App.js / app.config.js
 └── README.md
-
+```
 
 
 🚀 Getting Started
