@@ -29,6 +29,7 @@ my-app/
 ├── App.js / app.config.js
 └── README.md
 
+
 🚀 Getting Started
 🔧 Prerequisites
 
