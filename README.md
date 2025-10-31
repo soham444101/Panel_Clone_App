@@ -17,7 +17,9 @@ react-native-reanimated-carousel, react-carousel-animated → Interactive carous
 
 expo-linear-gradient, expo-font, expo-media-library → UI styling, fonts, and media handling
 
-📁 Project Structure
+## 📁 Project Structure
+
+```bash
 my-app/
 ├── app/                   # Screens & navigation (Expo Router)
 │   ├── Tabs/              # Tab navigation screens
@@ -28,6 +30,7 @@ my-app/
 ├── scripts/               # Utility scripts (e.g., reset-project)
 ├── App.js / app.config.js
 └── README.md
+
 
 
 🚀 Getting Started
