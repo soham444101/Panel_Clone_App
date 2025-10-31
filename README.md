@@ -1,4 +1,4 @@
-📱 Panel App Clone (Expo)
+# 📱 Panel App Clone (Expo)
 
 A beautiful and modern mobile app built with React Native + Expo Router, inspired by the Panel App UI.
 It includes smooth animations, horizontal carousels, and a responsive design — optimized for both Android and iOS.
@@ -114,9 +114,12 @@ Open websites or apps using expo-linking or expo-web-browser.
 
 Supports light/dark mode with system awareness.
 
-👤 Author
+## 📬 Contact
 
-Soham Aswar
-📧 sohamaswar@gmail.com
+**👩‍💻 Author:** Soham Aswar
+**📧 Email:** [sohamaswar@gmail.com](mailto:sohamaswar@gmail.com)
+**🔗 LinkedIn:** [linkedin.com/in/sohamaswar](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiu_OOsjcyQAxX0YfUHHVMJO7AQFnoECBsQAQ&url=https%3A%2F%2Fin.linkedin.com%2Fin%2Fsoham-aswar-18376b22a%3Ftrk%3Dpublic_profile_browsemap&usg=AOvVaw0ivsKXXKueS298YG0EHdQv&opi=89978449)
 
-💻 GitHub: soham444101
+
+⭐ **If you found this project useful, give it a star on GitHub!** [🔼 Back to top](#top)
+
